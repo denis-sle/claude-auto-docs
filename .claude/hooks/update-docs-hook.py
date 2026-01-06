@@ -6,7 +6,7 @@ Blocks Claude from stopping until project documentation is updated.
 Triggers in 'acceptEdits' or 'bypassPermissions' modes.
 
 Files updated:
-- _docs/HANDOFF_YYYYMMDD.md (session completion notes)
+- HANDOFF_YYYYMMDD.md (session completion notes)
 - CLAUDE.md (claude memory)
 - README.md (project readme)
 - DEVELOPER_GUIDE.md (developer documentation)
