@@ -45,7 +45,7 @@ Claude finishes work
 
 ```bash
 mkdir -p .claude/hooks
-curl -o .claude/hooks/update-docs-hook.py https://raw.githubusercontent.com/YOUR_USERNAME/claude-auto-docs/main/.claude/hooks/update-docs-hook.py
+curl -o .claude/hooks/update-docs-hook.py https://raw.githubusercontent.com/denis-sle/claude-auto-docs/main/.claude/hooks/update-docs-hook.py
 chmod +x .claude/hooks/update-docs-hook.py
 ```
 
